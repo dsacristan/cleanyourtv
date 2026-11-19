@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A dark tile with a golden star over a purple glow: the favourites list of the player. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+    <path android:fillColor="#15181F" android:pathData="M0,0h320v180h-320z" />
+    <path android:fillColor="#3A1F55" android:pathData="M0,120h320v60h-320z" />
+    <path android:fillColor="#8E44AD" android:pathData="M60,150h200v4h-200z" />
+    <path android:fillColor="#F2C14E"
+        android:pathData="M160,34 L172,68 L208,68 L179,89 L190,123 L160,102 L130,123 L141,89 L112,68 L148,68 Z" />
+</vector>
